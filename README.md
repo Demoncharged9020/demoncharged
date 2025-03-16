@@ -1,2 +1,3 @@
 # demoncharged
-first github repository 
+First GitHub repository 
+author- tanmay verma
